@@ -35,7 +35,7 @@ max_red = 25
 #max_red = 26
 ```
 
-Set how many rows of data you would like to use:
+Set how many of the *most recent* rows of data you would like to use:
 ```
 # Number of rows in data
 set_rows = 200
