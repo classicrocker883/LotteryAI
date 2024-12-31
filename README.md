@@ -12,9 +12,15 @@ python3 -m pip install scikit-learn pandas numpy
 ```
 
 ## To use
-I have uploaded data from two most popular lotteries:  
-**Powerball** >> 'powerball.csv'  
-**Mega Millions** >> 'megamillions.csv'
+I have uploaded data from two most popular lotteries.  
+### Click to download the **latest** updated results
+ 
+**[Powerball](https://www.texaslottery.com/export/sites/lottery/Games/Powerball/Winning_Numbers/download.html)** >> '[powerball.csv](https://www.texaslottery.com/export/sites/lottery/Games/Powerball/Winning_Numbers/powerball.csv)'  
+**[Mega Millions](https://www.texaslottery.com/export/sites/lottery/Games/Mega_Millions/Winning_Numbers/download.html)** >> '[megamillions.csv](https://www.texaslottery.com/export/sites/lottery/Games/Mega_Millions/Winning_Numbers/megamillions.csv)'
+
+#### (found from `https://www.texaslottery.com`)
+
+<br>
 
 To change which file is used, in **generate_numbers.py** _comment out_ the corresponding names:
 ```py
